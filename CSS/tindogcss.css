@@ -1,0 +1,199 @@
+/* * {
+	outline: 1px solid black;
+  } */
+
+h2, h4, h5 {
+  font-family: "Montserrat";
+}
+
+button{
+  margin-top: 3%;
+}
+
+.index0{
+  z-index: 1;
+}
+
+.index1{
+  z-index: 2;
+}
+
+.index2{
+  z-index: 3;
+}
+
+.header{
+  background-color: #ef2c60;
+  padding-left: 16.7%;
+  padding-right: 16.7%;
+  padding-top: 35px;
+  z-index: -1;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 4rem;
+  line-height: 1.5;
+}
+
+.white{
+  color: white;
+}
+
+.rotate{
+  transform: rotate(25deg);
+}
+
+.row{
+  padding-top: 90px;
+}
+
+.center{
+	display: flex;
+	justify-content: center;
+}
+
+.features{
+  padding: 5% 15%;
+}
+
+.mid{
+	background-color: white;
+  margin: 7% auto 9% auto;
+}
+
+.pad-4{
+  padding: 4.5%;
+}
+
+.marginl6{
+  margin-right: 6px;
+}
+
+.midsection{
+  text-align: center;
+}
+
+h3{
+  font-family: "Montserrat";
+  font-size: 1.5rem;
+}
+
+.para1{
+  color: #646870;
+}
+
+.fas{
+  color: #ef8172;
+  margin-bottom: 14px;
+}
+
+.fas:hover{
+  color: #ef2c60;
+}
+
+.second-bottom{
+  padding: 10% 15% 8% 15%;
+  background-color: #ef2c60;
+}
+
+.para2{
+  font-size: 3.5rem;
+  margin-bottom: 5%;
+}
+
+.marginr3{
+  margin-right: 3%;
+}
+
+.bottom{
+  margin: 6% auto 3% auto;
+}
+
+.margint1{
+  margin-top: 1%;
+}
+
+.marginr1{
+  margin-right: 1%;
+}
+
+.marginr5{
+  margin-right: 0.5%;
+}
+
+.margint5{
+  margin-top: 6%;
+}
+.marginb10{
+  margin-bottom: 10%;
+}
+
+.testimonials{
+  background-color: #ef8172;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+.testimonial-text{
+  font-size: 3rem;
+  line-height: 1.5;
+  padding-bottom: 5%;
+}
+
+em{
+  padding-left: 2%;
+}
+
+.dog-img{
+  border-radius: 100%;
+  width: 10%;
+  padding-bottom: 3%;
+}
+
+.brands{
+  background-color: #ef8172;
+  padding-bottom: 5%;
+}
+
+.brand-img{
+  padding-left: 3%;
+  width: 15%;
+}
+
+.card-s{
+  padding-top: 5%;
+  margin: auto 20% 5% 20%;
+}
+
+.card-head{
+  font-size: 3rem;
+}
+
+.black{
+  color: black;
+}
+
+.card-price{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.sans{
+  font-family: sans-serif;
+}
+
+.mont{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.card-header{
+  font-size: 1.8rem;
+  line-height: 2;
+}
+
+.font12{
+  font-size: 1.2rem;
+}
