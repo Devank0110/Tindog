@@ -214,4 +214,8 @@ em {
   .para1 {
     font-size: 1.5rem;
   }
+
+  body{
+    font-size: 200%;
+  }
 }
